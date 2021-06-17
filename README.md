@@ -5,6 +5,8 @@
 
 #### For Tools and source codes,see [Xe-Release](https://github.com/daleclack/Xe-Release)
 
+#### Gitee Mirror:[Xe-Release on Gitee](https://gitee.com/daleclack/Xe-Release)
+
 ##### I'm always on the way to find a breakthrough
 
 Current version is xe-release 10(The Gtk4 version only supports linux)
