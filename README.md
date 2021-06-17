@@ -1,13 +1,15 @@
 # Xe-Project
 #### Xe-Project--a interesting project
 
+#### Notice : This repository only contain images and project files.
+
+#### For Tools,see 
+
+[Xe_Project]: https://github.com/daleclack/Xe-Release
+
+
+
 ##### I'm always on the way to find a breakthrough
-
-Notice : The build system switched to cmake,use cmake to build binaries for any platform
-
-~~this repository contain files for win64 and linux on amd64 and arm64~~
-
-(The binaries have moved to release page)
 
 Current version is xe-release 10(The Gtk4 version only supports linux)
 
