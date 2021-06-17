@@ -3,11 +3,7 @@
 
 #### Notice : This repository only contain images and project files.
 
-#### For Tools,see 
-
-[Xe_Project]: https://github.com/daleclack/Xe-Release
-
-
+#### For Tools and source codes,see [Xe-Release](https://github.com/daleclack/Xe-Release)
 
 ##### I'm always on the way to find a breakthrough
 
