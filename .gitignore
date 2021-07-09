@@ -32,6 +32,8 @@ backend/*
 
 #The binary
 FiveRow
+XeRelease
+XeRelease.exe
 
 # Prerequisites
 *.d
