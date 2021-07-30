@@ -13,7 +13,7 @@ Current version is xe-release 10(The Gtk4 version only supports linux)
 
 Current releases:
 
-~~Longterm(5.x):2019-01-11 to now~~
+~~Longterm(5.x):2019-01-11 to now~~End of life
 
 Stable : Before 2021-02-07 : The start time is 2017-06-17
 
