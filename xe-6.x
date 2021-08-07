@@ -15,3 +15,4 @@
 2021-06-07 6.2.1480 Api:46
 //In the 47th build,the XeApi naming System Renamed to build
 2021-07-09 6.2.1512 build:47
+2021-08-07 6.2.1541 build:48
