@@ -1,6 +1,7 @@
 //Xe-5.x Codename:The Secular Bird
 //The 5.x Series of Xe Project is End-Of-Life
 //Use Xe 6.x and 7.x(In development) instead.
+//The Longterm version had been continued in 2021-11
 2020-08-03 5.0.570
 2020-08-15 5.1.582
 2020-08-27 5.2.594
