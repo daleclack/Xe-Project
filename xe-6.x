@@ -20,3 +20,5 @@
 2021-10-07 6.3.1602 build:50
 2021-11-07 6.4.1633 build:51
 //News:The Xe 6.x series will be end-of-life after 2022-1-7
+2021-12-07 6.5.1663 build:52
+//This is the final update, good bye.
