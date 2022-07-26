@@ -1,0 +1,8 @@
+This is the config file of Xe Release
+See more on github.com/daleclack/Xe-Release
+
+Longterm=5.5
+Stable=7.7
+Develop=8.0
+Release_Path_Unix=/mnt/Dell/Gtk_Dev/Xe-Project
+Release_Path_Win32=D:\Gtk_Dev\Xe-Project
