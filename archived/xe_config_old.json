@@ -1,0 +1,10 @@
+{
+    "Develop": "default",
+    "Longterm": "5.15",
+    "Release_Path_Darwin": "",
+    "Release_Path_Unix": "/mnt/Dell/Gtk_Dev/Xe-Project",
+    "Release_Path_Win32": "D:\\Gtk_Dev\\Xe-Project",
+    "Stable": "9.0",
+    "background": 3,
+    "dark_mode": true
+}

@@ -1,1 +1,22 @@
-{"Develop":"default","Longterm":"5.15","Release_Path_Darwin":"","Release_Path_Unix":"/mnt/Dell/Gtk_Dev/Xe-Project","Release_Path_Win32":"D:\\Gtk_Dev\\Xe-Project","Stable":"9.0","background":3,"dark_mode":true}
+{
+    "Branches": [
+        "Longterm",
+        "Stable",
+        "Develop"
+    ],
+    "Modes": [
+        0,
+        1,
+        1
+    ],
+    "Release_Path_Darwin": "",
+    "Release_Path_Unix": "/mnt/Dell/Gtk_Dev/Xe-Project",
+    "Release_Path_Win32": "D:\\Gtk_Dev\\Xe-Project",
+    "Versions": [
+        "5.15",
+        "9.1",
+        "<empty>"
+    ],
+    "background": 3,
+    "dark_mode": false
+}
