@@ -68,3 +68,4 @@ XeRelease.exe
 *.out
 *.app
 
+.hidden
