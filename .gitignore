@@ -69,3 +69,4 @@ XeRelease.exe
 *.app
 
 .hidden
+.nomedia
