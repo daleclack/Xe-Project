@@ -1,0 +1,16 @@
+I
+1 Version
+2 230718    KPDX    KPDX   0   0.1   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
+2 230729    KPDX    KPDX   0   0.1   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
+2 230803    KPDX    KPDX   0   0.1   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
+2 230819    KPDX    KPDX   0   0.1   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
+2 230912    KPDX    KPDX   1   0.1   0.0   0.0   0.0     LBV  P-51 Mustang
+2 230912    KPDX    KPDX   0   0.2   0.0   0.0   0.0  N550CR  Cirrus SR22
+2 231014    52OR    KVUO   1   0.2   0.0   0.0   0.0  N550CR  Cirrus SR22
+2 231014    KVUO    KVUO   0   0.1   0.0   0.0   0.0  N550CR  Cirrus SR22
+2 231116    52OR    KSPB   1   0.1   0.0   0.0   0.0  N550CR  Cirrus SR22
+2 231202    KSPB    52OR   2   0.1   0.0   0.0   0.0  F227NM  f4u_xp12
+2 231207    EGLC    EGLC   0   0.1   0.0   0.0   0.0  F227NM  f4u_xp12
+2 231208    EGLC    EGLC   0   0.1   0.0   0.0   0.0  F227NM  f4u_xp12
+2 231208    EGLC    EGSX   1   0.1   0.0   0.0   0.0  F227NM  f4u_xp12
+99
