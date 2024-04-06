@@ -1,0 +1,56 @@
+I
+1 Version
+2 221219    KPDX    KPDX   0   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
+2 221219    KPDX    KPDX   0   0.1   0.0   0.0   0.0   N45XS  Baron_58
+2 221219    LSZH    LSZH   0   0.1   0.0   0.0   0.0   N45XS  Baron_58
+2 221220    LSZH    LSZH   0   0.1   0.0   0.0   0.0   N45XS  Baron_58
+2 221220    LSZH    LSZH   0   0.1   0.0   0.0   0.0   N45XS  Baron_58
+2 221227    LSMM    LSMM   0   0.1   0.0   0.0   0.0  N576XP  S-76C
+2 221227    LJLJ    LIPZ   1   0.7   0.0   0.0   0.0  N251CV  CirrusSF50
+2 221229    LIPZ    LIPZ   1   0.1   0.0   0.0   0.0  C-GWZS  VSL_C-47_xp12
+2 221229    LIPZ    LIPO   1   0.5   0.0   0.0   0.0  N394TY  FA-18F_xp12
+2 221231    LIPO    LIPO   0   0.1   0.0   0.0   0.0  N394TY  FA-18F_xp12
+2 230116    LIPO    LIPO   0   0.1   0.0   0.0   0.0   ZB738  b738
+2 230126    LIPO    LIPO   0   0.6   0.0   0.0   0.0  N550CR  Cirrus SR22
+2 230126    LIPO    LIPO   1   0.1   0.0   0.0   0.0   N844X  N844X
+2 230126    LIPO    LIPO   0   0.1   0.0   0.0   0.0   N844X  N844X
+2 230130    LIPO    LIPO   1   0.1   0.0   0.0   0.0  N576XP  S-76C
+2 230202    LIRU    LIRA   1   0.3   0.0   0.0   0.0  N550CR  Cirrus SR22
+2 230312    KPDX    KPDX   0   0.1   0.0   0.0   0.0  Satlas  Hongqi
+2 230312    KPDX    KPDX   1   0.1   0.0   0.0   0.0  D-HHXP  Robinson R22 Beta II_mariner
+2 230312    KPDX    KPDX   1   0.1   0.0   0.0   0.0  N576XP  S-76C
+2 230326    LIPO    LIPO   1   0.1   0.0   0.0   0.0  N6321T  ctr182_xp12
+2 230331    LIPO    LIPO   1   0.1   0.0   0.0   0.0  425/17  fokker_dr1 wwi
+2 230331    LIPO    LIPO   1   0.1   0.0   0.0   0.0  425/17  fokker_dr1 wwi
+2 230509    EGLC    EGLC   1   0.1   0.0   0.0   0.0  N550CR  Cirrus SR22
+2 230516    EGLC    EGMC   1   0.3   0.0   0.0   0.0  N251CV  CirrusSF50
+2 230516    EGMC    EGMC   0   0.3   0.0   0.0   0.0  N550CR  Cirrus SR22
+2 230516    EGMC    EGLC   1   0.5   0.0   0.0   0.0  N550CR  Cirrus SR22
+2 230523    EGLC    EGLC   1   0.1   0.0   0.0   0.0  N550CR  Cirrus SR22
+2 230523    EGLC    EGLC   1   0.1   0.0   0.0   0.0  N251CV  CirrusSF50
+2 230526    EGLC    EGLC   1   0.1   0.0   0.0   0.0       1  Car_CT182T_xp12
+2 230526    EGLC    EGLC   1   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
+2 230603    EGLC    EGLC   1   0.1   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
+2 230603    EGLC    EGLC   1   0.2   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
+2 230604    EGGW    EGGW   1   0.1   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
+2 230604    EGGW    EGSC   1   0.4   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
+2 230606    EGSC    EGSC   0   0.1   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
+2 230611    EGSC    EGSC   0   0.1   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
+2 230716    EGSC    EGSC   0   0.1   0.0   0.0   0.0  N399CK  Alabeo_C172RG_update
+2 230716    EGSC    EGSC   0   0.1   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
+2 230716    EGSC    EGSU   1   0.2   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
+2 231203    EGSU    EGSU   0   0.1   0.0   0.0   0.0  F227NM  f4u_xp12
+2 231208    EGLC    EGLL   1   0.2   0.0   0.0   0.0  F227NM  f4u_xp12
+2 231210    EGLL    EGLL   0   0.1   0.0   0.0   0.0  F227NM  f4u_xp12
+2 240107    EGLL    EGWU   1   0.1   0.0   0.0   0.0  F227NM  f4u_xp12
+2 240203    EGWU    EGWU   0   0.1   0.0   0.0   0.0  F227NM  f4u_xp12
+2 240403    EGTR    EGWU   1   0.2   0.0   0.0   0.0  F227NM  f4u_xp12
+2 240403    EGLC    EGLC   0   0.1   0.0   0.0   0.0  F227NM  f4u_xp12
+2 240403    EGLC    EGLL   1   0.2   0.0   0.0   0.0  F227NM  f4u_xp12
+2 240403    EGLL    EGLL   0   0.1   0.0   0.0   0.0  F227NM  f4u_xp12
+2 240404    EDDB    EDBC   1   0.5   0.0   0.0   0.0  F227NM  f4u_xp12
+2 240406    EDHI    ETNH   1   0.4   0.0   0.0   0.0  F227NM  f4u_xp12
+2 240406    EDHI    EDHI   0   0.1   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
+2 240406    EDHI    EDHU   1   0.3   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
+2 240406    EGLC    EGMC   1   0.4   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
+99
