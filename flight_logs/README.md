@@ -2,6 +2,8 @@
 
 ##### Note: LogBook for Microsoft Flight Simulator X and Micrsoft Flight Simulator (2020) are binary files, you may need a tool to view and export the flight log.
 
+##### For Microsoft Flight Simulator X, a free fsxlogbook utility is available.
+
 ##### For Microsoft Flight Simulator (2020), you can use Logbook analyzer to export and manage flight logs.
 
 ##### X-Plane 11/12:
