@@ -72,4 +72,5 @@ I
 2 240407    EGLL    EGLL   0   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
 2 240407    EGLC    EGLC   0   0.1   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
 2 240407    EGMH    EGMH   1   0.7   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
+2 240409    LUKK    LRIA   1   0.4   0.0   0.0   0.0  F227NM  f4u_xp12
 99
