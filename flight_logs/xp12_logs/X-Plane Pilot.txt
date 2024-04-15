@@ -77,4 +77,5 @@ I
 2 240412    LRIA    LRCL   1   0.8   0.0   0.0   0.0  F227NM  f4u_xp12
 2 240413    EGMC    EGMC   1   0.1   0.1   0.0   0.0  N550CR  Cirrus SR22
 2 240413    EGMC    EGMC   1   0.1   0.1   0.0   0.0  N576XP  S-76C
+2 240415    EGMC    EGMC   0   0.1   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
 99
