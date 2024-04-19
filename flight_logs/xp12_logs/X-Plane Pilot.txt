@@ -83,4 +83,5 @@ I
 2 240419    EGLL    EGWU   1   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
 2 240419    EGWU    EGWU   2   0.1   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
 2 240419    EGWU    EGWU   1   0.1   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
+2 240419    EGWU    EGWU   0   0.1   0.0   0.0   0.0   PC21X  PC21_xp12
 99
