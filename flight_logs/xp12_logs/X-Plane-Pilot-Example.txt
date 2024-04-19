@@ -1,5 +1,5 @@
 I
 1 Version
-2 Date      From    To     ?   All  Night  ?     ?    ATCName Aircraft Model
+2 Date      From    To   Land  All  Night Inst. Cross ATCName Aircraft Model
 2 221219    KPDX    KPDX   0   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
 99

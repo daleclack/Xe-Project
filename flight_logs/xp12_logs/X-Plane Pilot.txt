@@ -80,4 +80,7 @@ I
 2 240415    EGMC    EGMC   0   0.1   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
 2 240416    LRCL    LHBP   1   0.8   0.0   0.0   0.0  F227NM  f4u_xp12
 2 240419    LHBP    LHTL   1   0.1   0.0   0.0   0.0  N576XP  S-76C
+2 240419    EGLL    EGWU   1   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
+2 240419    EGWU    EGWU   2   0.1   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
+2 240419    EGWU    EGWU   1   0.1   0.0   0.0   0.0  N399CK  Alabeo_C172RG_xp12
 99
