@@ -87,4 +87,7 @@ I
 2 240420    EGTR    EGLC   1   0.2   0.0   0.0   0.0   PC21X  PC21_xp12
 2 240420    LHBP    LHBP   0   0.1   0.0   0.0   0.0  F227NM  f4u_xp12
 2 240420    LHBP    LZIB   1   0.5   0.0   0.0   0.0  F227NM  f4u_xp12
+2 240420    LZIB    LOWW   1   0.3   0.0   0.0   0.0   ZB738  b738
+2 240420    LZIB    LOWW   1   0.2   0.0   0.0   0.0   ZB738  b738
+2 240420    LOWW    LOWW   0   0.1   0.0   0.0   0.0   ZB738  b738
 99
