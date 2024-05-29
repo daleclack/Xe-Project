@@ -1,4 +1,4 @@
-### FSX Config example
+### FSX Config example and tips
 
 This is a example of fsx.cfg file, which is the configuration file for Microsoft Flight Simulator X: Steam Edition
 
@@ -27,3 +27,11 @@ This is a example for window mode.
 [Main]
 Maximized=2
 ```
+
+### Tips:
+
+#### Make Microsoft Flight Simulator X run with wine/proton
+
+After isntall the fsx itself, install these packages: dxvk, corefonts with winetricks/protontricks to make fsx run.
+
+More information: As the protondb, the fsx works with proton 5.13 and proton 6.3, but there is some bug with proton 6.3.
