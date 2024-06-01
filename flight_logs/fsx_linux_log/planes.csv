@@ -1,5 +1,8 @@
-Plane,Hours
-CESSNA C182R,0.4
-North American F86,0.2
-Robinson R22,0.1
-Ultralight trike,0.1
+Plane;Hours
+CESSNA C182;1.0
+CESSNA C182R;1.2
+F4U-1A Corsair29;0.4
+North American F86;0.4
+P51 Mustang;0.2
+Robinson R22;0.1
+Ultralight trike;0.1
