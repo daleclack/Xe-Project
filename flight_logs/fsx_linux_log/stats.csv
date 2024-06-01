@@ -1,11 +1,11 @@
-Statistics;
-Flights;38
-Planes used;7
-Airports used;18
-Take Off;28
-Landing;19
-Hours;3.5
-Night;0.1
-IFR;0.0
-Multi;0.0
-Avg Flight Time;0.09 hours (5 min)
+Statistics,
+Flights,38
+Planes used,7
+Airports used,18
+Take Off,28
+Landing,19
+Hours,3.5
+Night,0.1
+IFR,0.0
+Multi,0.0
+Avg Flight Time,0.09 hours (5 min)
