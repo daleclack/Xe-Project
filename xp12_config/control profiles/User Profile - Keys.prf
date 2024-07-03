@@ -93,13 +93,13 @@ D <NONE> sim/instruments/DG_sync_mag
 7 <NONE> sim/flight_controls/rudder_trim_right
 9 <NONE> sim/flight_controls/aileron_trim_center
 6 <NONE> sim/flight_controls/rudder_trim_center
-T ALT sim/operation/ground_speed_change
 K <NONE> sim/operation/time_down
 L <NONE> sim/operation/time_up
 K SHIFT sim/operation/time_down_lots
 L SHIFT sim/operation/time_up_lots
-T CTRL sim/operation/flightmodel_speed_change
 P <NONE> sim/operation/pause_toggle
+T CTRL sim/operation/flightmodel_speed_change
+T ALT sim/operation/ground_speed_change
 Space CTRL sim/operation/video_record_toggle
 R ALT sim/replay/replay_toggle
 Return <NONE> sim/operation/contact_atc
