@@ -106,4 +106,6 @@ I
 2 240703    KPDX    KHIO   1   0.1   0.0   0.0   0.0  N394TY  FA-18F_xp12
 2 240703    KHIO    52OR   1   0.2   0.0   0.0   0.0  D-HHXP  Robinson R22 Beta II_mariner
 2 240705    KHIO    KSLE   1   0.1   0.0   0.0   0.0  N394TY  FA-18F_xp12
+2 240706    KSLE    KEUG   1   0.3   0.0   0.0   0.0  N394TY  FA-18F_xp12
+2 240706    KEUG     S18   1   1.2   0.0   0.0   0.0  N394TY  FA-18F_xp12
 99
