@@ -4621,6 +4621,8 @@ _joy_prat70 0.000000
 _joy_prat71 0.000000
 _joy_prat72 0.000000
 _joy_prat73 0.000000
+_joy_prat74 0.000000
+_joy_prat75 0.000000
 _axis_is_required0 0
 _axis_is_required1 0
 _axis_is_required2 0
@@ -4695,6 +4697,8 @@ _axis_is_required70 0
 _axis_is_required71 0
 _axis_is_required72 0
 _axis_is_required73 0
+_axis_is_required74 0
+_axis_is_required75 0
 _joy_AXIS_use0 0
 _joy_AXIS_use1 0
 _joy_AXIS_use2 0

@@ -108,4 +108,6 @@ I
 2 240705    KHIO    KSLE   1   0.1   0.0   0.0   0.0  N394TY  FA-18F_xp12
 2 240706    KSLE    KEUG   1   0.3   0.0   0.0   0.0  N394TY  FA-18F_xp12
 2 240706    KEUG     S18   1   1.2   0.0   0.0   0.0  N394TY  FA-18F_xp12
+2 240707    KEUG    KEUG   1   1.7   0.0   0.0   0.0  N394TY  FA-18F_xp12
+2 240709    KEUG    KEUG   0   0.1   0.0   0.0   0.0  N394TY  FA-18F_xp12
 99
