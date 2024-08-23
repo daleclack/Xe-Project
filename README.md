@@ -1,7 +1,8 @@
 # Xe-Project
+
 ## Xe-Project--a interesting project
 
-### Notice : This repository only contain images and project files.
+### Notice : This repository only contain images and project files
 
 #### For Tools and source codes,see [Xe-Release](https://github.com/daleclack/Xe-Release)
 
