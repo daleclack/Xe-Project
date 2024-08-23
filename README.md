@@ -10,7 +10,7 @@
 
 ##### I'm always on the way to find a breakthrough
 
-Current version is xe-release 13(The Gtk4 version only supports linux)
+Current stable version for Gtk and Qt is Xe-Release 17.
 
 Current releases:
 
