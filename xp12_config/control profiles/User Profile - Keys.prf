@@ -118,7 +118,7 @@ W CTRL sim/view/forward_with_nothing
 6 SHIFT sim/view/ridealong
 7 SHIFT sim/view/track_weapon
 8 SHIFT sim/view/chase
-9 SHIFT sim/view/3d_cockpit_cmnd_look
+0 SHIFT sim/view/3d_cockpit_cmnd_look
 C SHIFT sim/view/cinema_verite
 S SHIFT sim/view/sunglasses
 N SHIFT sim/view/night_vision
@@ -181,3 +181,4 @@ R CTRL sim/general/rot_up_slow
 F CTRL sim/general/rot_down_slow
 Q CTRL sim/general/rot_left_slow
 E CTRL sim/general/rot_right_slow
+9 SHIFT sim/view/wingman
