@@ -116,4 +116,6 @@ I
 2 241208    KPDX  XK00AK   1   0.1   0.0   0.0   0.1  F227NM  f4u_xp12
 2 251116    KPDX    KHIO   1   0.3   0.0   0.0   0.3  N790DL  Car_Bonanza_xp12
 2 251116    KHIO    KHIO   0   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
+2 251117    KPDX    KPDX   0   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
+2 251118    TNCM    TNCM   0   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
 99
