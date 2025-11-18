@@ -1,0 +1,35 @@
+I
+1 Version
+2 200415    ZUCK    ZUCK   1   0.1   0.0   0.0   0.0  N172SP  Cessna_172SP
+2 200415    ZUCK    ZUCK   0   0.4   0.0   0.0   0.0  N816NN  b738
+2 200418    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0  JF_PA28_Turbo_Arrow  
+2 200420    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0   ZB738  b738
+2 200420    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0   FFSTS  767-300ER_xp11
+2 200420    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0   FFSTS  767-300ER_xp11
+2 200420    ZUCK    ZUCK   1   0.1   0.0   0.0   0.0   FFSTS  757-200_xp11
+2 200420    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0  YNKV43  777-300ER_xp11
+2 200420    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0  N789FT  B7879
+2 200420    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0  C-FUNN  727-200Adv
+2 200420    ZUCK    ZUCK   1   0.1   0.0   0.0   0.0  C-IGAR  FJS_732_TwinJet
+2 200420    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0   ZU739  b739_4k
+2 200421    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0    E195  E195
+2 200421    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0  N902DL  Rotate-MD-80-XP11
+2 200421    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0  PT-SSG  SSGE-170LR_Evo_11
+2 200423    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0  N3888Y  PA32_Saratoga
+2 200520    LEBB    LEBB   1   0.1   0.0   0.0   0.0  N172SP  Cessna_172SP
+2 200520    EDDF    EDDF   1   0.1   0.0   0.0   0.0  N172SP  Cessna_172SP
+2 200520    EDDF    EDDF   0   0.1   0.0   0.0   0.0  N172SP  Cessna_172SP
+2 200609    FSIA    FSIA   0   0.1   0.0   0.0   0.0  N172SP  Cessna_172SP
+2 200718    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0     XXX  A350_xp11
+2 200718    FIMP    FIMP   0   0.1   0.0   0.0   0.0     XXX  A350_xp11
+2 200721    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0  YNKV43  777-300ER_xp11
+2 200721    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0  YNKV43  777-300ER_xp11
+2 200721    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0  YNKV43  777-300ER_xp11
+2 200721    ZUCK    ZUCK   1   0.1   0.0   0.0   0.0  YNKV43  777-300ER_xp11
+2 200725    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0  N789FT  B7879
+2 200727    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0   85748  tu154
+2 210828    ZUCK    ZUCK   0   0.1   0.0   0.0   0.0  Avro_Vulcan  
+2 251117    LOWI    LOWI   0   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza
+2 251117    TNCM    TFFG   1   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza
+2 251118    TNCM    TQPF   1   0.2   0.0   0.0   0.0  N790DL  Car_Bonanza
+99
