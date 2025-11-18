@@ -118,4 +118,5 @@ I
 2 251116    KHIO    KHIO   0   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
 2 251117    KPDX    KPDX   0   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
 2 251118    TNCM    TNCM   0   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
+2 251118    TNCM    TFFG   1   0.2   0.0   0.0   0.2  N790DL  Car_Bonanza_xp12
 99
