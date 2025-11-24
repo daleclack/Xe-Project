@@ -33,4 +33,5 @@ I
 2 251117    TNCM    TFFG   1   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza
 2 251118    TNCM    TQPF   1   0.2   0.0   0.0   0.0  N790DL  Car_Bonanza
 2 251121    VHHH    VHXX   1   0.2   0.0   0.0   0.0  N790DL  Car_Bonanza
+2 251124    TNCM    TFFJ   1   0.2   0.0   0.0   0.0  N790DL  Car_Bonanza
 99
