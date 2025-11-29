@@ -124,4 +124,8 @@ I
 2 251119    KBTV    VT57   1   0.4   0.0   0.0   0.4  N790DL  Car_Bonanza_xp12
 2 251124    EGLC    EGLC   0   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
 2 251124    EGLC    EGWU   1   0.2   0.0   0.0   0.2  N790DL  Car_Bonanza_xp12
+2 251126    EGWU    EGWU   0   0.5   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
+2 251127    KCGX    KCGX   0   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
+2 251128    KCGX    KCGX   0   0.2   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
+2 251128    KCGX    KORD   1   0.2   0.0   0.0   0.2  N790DL  Car_Bonanza_xp12
 99
