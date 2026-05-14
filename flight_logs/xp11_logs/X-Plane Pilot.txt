@@ -43,4 +43,6 @@ I
 2 260514    KCGX    KMDW   1   0.1   0.0   0.0   0.0  N251CV  CirrusSF50
 2 260514    KMDW    KMDW   0   0.1   0.0   0.0   0.0  N251CV  CirrusSF50
 2 260514    KMDW    KDPA   1   0.2   0.0   0.0   0.0  N251CV  CirrusSF50
+2 260514    TNCM    TFFG   1   0.1   0.0   0.0   0.0  N251CV  CirrusSF50
+2 260514    TFFG    TQPF   1   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza
 99
