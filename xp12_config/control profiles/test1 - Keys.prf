@@ -183,3 +183,5 @@ Z <NONE> sim/engines/throttle_down
 A <NONE> sim/engines/throttle_up
 V CTRL Dr1/guns/fire_right_gun Fire right machine gun
 9 SHIFT sim/view/wingman
+B CTRL sim/flight_controls/park_brake_release
+B SHIFT+CTRL sim/flight_controls/park_brake_set

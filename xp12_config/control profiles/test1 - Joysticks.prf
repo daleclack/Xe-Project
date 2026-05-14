@@ -1,6 +1,7 @@
 I
 10 Version
 _require_faa_checks 1
+_discretize_flap_axis 0
 _eq_pfc_ailn_trim 0
 _eq_pfc_rudd_trim 0
 _eq_pfc_elev_trim 0
@@ -4626,6 +4627,8 @@ _joy_prat75 0.000000
 _joy_prat76 0.000000
 _joy_prat77 0.000000
 _joy_prat78 0.000000
+_joy_prat79 0.000000
+_joy_prat80 0.000000
 _axis_is_required0 0
 _axis_is_required1 0
 _axis_is_required2 0
@@ -4705,6 +4708,8 @@ _axis_is_required75 0
 _axis_is_required76 0
 _axis_is_required77 0
 _axis_is_required78 0
+_axis_is_required79 0
+_axis_is_required80 0
 _joy_AXIS_use0 0
 _joy_AXIS_use1 0
 _joy_AXIS_use2 0
