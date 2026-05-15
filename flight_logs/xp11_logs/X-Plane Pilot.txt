@@ -45,4 +45,6 @@ I
 2 260514    KMDW    KDPA   1   0.2   0.0   0.0   0.0  N251CV  CirrusSF50
 2 260514    TNCM    TFFG   1   0.1   0.0   0.0   0.0  N251CV  CirrusSF50
 2 260514    TFFG    TQPF   1   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza
+2 260514    LOWI    LOWI   1   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza
+2 260515    LOWI    LOIR   1   0.5   0.0   0.0   0.0  N790DL  Car_Bonanza
 99
