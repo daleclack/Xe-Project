@@ -131,4 +131,6 @@ I
 2 260512    KPDX    KTTD   1   0.1   0.0   0.0   0.1  N251CV  CirrusSF50
 2 260512    LEGV    LEGV   1   0.1   0.0   0.0   0.0  N251CV  CirrusSF50
 2 260513    KPDX    WA67   1   0.1   0.0   0.0   0.1  N251CV  CirrusSF50
+2 260530    KPDX    KPDX   1   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
+2 260530    KPDX    KTTD   1   0.2   0.0   0.0   0.1  N790DL  Car_Bonanza_xp12
 99
