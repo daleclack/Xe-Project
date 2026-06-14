@@ -51,4 +51,5 @@ I
 2 260517    ETSA    EDMO   1   0.2   0.0   0.0   0.0  N790DL  Car_Bonanza
 2 260519    EDMO    ETSF   1   0.2   0.0   0.0   0.0  N790DL  Car_Bonanza
 2 260521    ETSF    EDMA   1   0.2   0.0   0.0   0.0  N790DL  Car_Bonanza
+2 260614    EDMO    ETSA   1   0.2   0.0   0.0   0.0  N56200  Stearman
 99
