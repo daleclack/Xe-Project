@@ -135,4 +135,5 @@ I
 2 260530    KPDX    KTTD   1   0.2   0.0   0.0   0.1  N790DL  Car_Bonanza_xp12
 2 260609    KTTD    KPDX   1   0.1   0.0   0.0   0.1  N790DL  Car_Bonanza_xp12
 2 260614    KPDX    KTTD   1   0.2   0.0   0.0   0.2  N56200  Stearman_spirit
+2 260615    KTTD    KPDX   1   0.2   0.0   0.0   0.2  N56200  Stearman_spirit
 99
