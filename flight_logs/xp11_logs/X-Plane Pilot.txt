@@ -53,4 +53,5 @@ I
 2 260521    ETSF    EDMA   1   0.2   0.0   0.0   0.0  N790DL  Car_Bonanza
 2 260614    EDMO    ETSA   1   0.2   0.0   0.0   0.0  N56200  Stearman
 2 260615    EDMA    EDMA   1   0.2   0.0   0.0   0.0  N56200  Stearman
+2 260707    KCGX    KCGX   0   0.1   0.0   0.0   0.0  HB-FOI  pc12
 99
