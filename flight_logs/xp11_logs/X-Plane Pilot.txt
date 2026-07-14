@@ -57,4 +57,5 @@ I
 2 260708    KCGX    KORD   1   0.1   0.0   0.0   0.0  pc12_xp11  
 2 260710    KCGX    KCGX   0   0.2   0.0   0.0   0.0  HB-FOI  pc12_xp11
 2 260710    KCGX    KORD   1   0.1   0.0   0.0   0.0  pc12_xp11  
+2 260711    PHNL    PHNL   0   0.1   0.0   0.0   0.0  HB-FOI  pc12_xp11
 99
