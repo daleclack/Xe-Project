@@ -140,4 +140,7 @@ I
 2 260707    KPDX    KTTD   1   0.1   0.0   0.0   0.1  HB-FOI  pc12
 2 260708    KPDX    5WA9   1   0.1   0.0   0.0   0.1  HB-FOI  pc12_xp12
 2 260708    5WA9    KTTD   1   0.2   0.0   0.0   0.2  HB-FOI  pc12_xp12
+2 260714    PHNL  XPH0001   1   0.1   0.0   0.0   0.1   PC21X  PC21_xp12
+2 260715    PHNL    XBEL   1   0.1   0.0   0.0   0.1   PC21X  PC21
+2 260715    PHNL    PHNG   1   0.1   0.0   0.0   0.1   PC21X  PC21
 99
