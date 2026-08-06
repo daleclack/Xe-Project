@@ -76,4 +76,7 @@ I
 2 260724    KCGX    KORD   1   0.1   0.0   0.0   0.0   PC21X  PC21
 2 260724    TNCM    TFFG   1   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza
 2 260725    KCGX    KORD   1   0.1   0.0   0.0   0.0   PC21X  PC21
+2 260730    KORD    KCGX   1   0.2   0.0   0.0   0.0   PC21X  PC21
+2 260803    KCGX    KORD   1   0.1   0.0   0.0   0.0   PC21X  PC21
+2 260806    KORD    KCGX   1   0.1   0.0   0.0   0.0  HB-FOI  pc12
 99
