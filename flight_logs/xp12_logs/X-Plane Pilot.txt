@@ -150,4 +150,13 @@ I
 2 260724    PHNL    PHNG   1   0.1   0.0   0.0   0.1   PC21X  PC21_xp12
 2 260726    PHNG    PHMK   1   0.2   0.0   0.0   0.2   PC21X  PC21_xp12
 2 260829    PHMK    PHMK   0   0.1   0.0   0.0   0.0  HB-FOI  pc12_xp12
+2 260829    PHMK    PHNG   1   0.3   0.0   0.0   0.3  HB-FOI  pc12_xp12
+2 260901    PHNG    PHNG   0   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
+2 260902    PHNG    XBEL   1   0.2   0.0   0.0   0.1  N790DL  Car_Bonanza_xp12
+2 260902    XBEL    PHNG   1   0.1   0.0   0.0   0.1  N790DL  Car_Bonanza_xp12
+2 260902    KPDX    KHIO   1   0.3   0.0   0.0   0.3  N790DL  Car_Bonanza_xp12
+2 260902    KHIO    KHIO   0   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
+2 260903    KHIO    KPDX   1   0.4   0.0   0.0   0.3  N790DL  Car_Bonanza_xp12
+2 260903    KPDX    KPDX   0   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
+2 260904    KPDX    KTTD   1   0.1   0.0   0.0   0.1  N790DL  Car_Bonanza_xp12
 99
