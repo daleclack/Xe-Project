@@ -159,4 +159,5 @@ I
 2 260903    KHIO    KPDX   1   0.4   0.0   0.0   0.3  N790DL  Car_Bonanza_xp12
 2 260903    KPDX    KPDX   0   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
 2 260904    KPDX    KTTD   1   0.1   0.0   0.0   0.1  N790DL  Car_Bonanza_xp12
+2 260904    KPDX    KPDX   1   0.2   0.0   0.0   0.0  N790DL  Car_Bonanza_xp12
 99
