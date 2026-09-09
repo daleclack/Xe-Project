@@ -1,17 +1,18 @@
 Project ID,Platform,Airframe,Theme,Registration(Optional),Note,Variation 
-FlyCat#1,FSX,Carenado C182 RG,Nekoha Shizuku,N379DL(FSX)/N1575S(P3D),First test build(with FS9/P3D test build),1
+FlyCat#1,FSX,Carenado C182 RG,Nekoha Shizuku,N615PA(FS9)/N379DL(FSX)/N1575S(P3D),First test build(with FS9/P3D test build),1
 FlyCat#2,MSFS (2020),Carenado C182 RG,Nekoha Shizuku,N2817E,First finished build(FS9: Nekoha Shizuku 2 build),2 
 FlyCat#3,FSX/Prepar3d/X-Plane,Robinson R22,Nekoha Shizuku,,,2
 FlyCat#4,FSX/Prepar3d/MSFS/X-Plane,F4U/FG-1D Corsair,Nekoha Shizuku,,,2
 FlyCat#5,FS9,Iris F-35B,Nekoha Shizuku,,Test Build,2
 FlyCat#6,MSFS 2024,Cessna C185F,Nekoha Shizuku,,MSFS 2024 Test,2
 FlyCat#7,MSFS,Experimental Mini-500,Nekoha Shizuku,,,2
-FlyCat#8,FS9/FSX/MSFS,T-45C,Nekoha Shizuku,,,2
-FlyCat#9,FS9/FSX/MSFS,Pilatus PC-21,Nekoha Shizuku,,,2
-FlyCat#10,MSFS,Airbus A320neo,Nekoha Shizuku,,First Airliner,2
-FlyCat#11,MSFS,Airbus A330-900,Nekoha Shizuku,,,2
-FlyCat#12,FS9/FSX/Prepar3d/MSFS(2020/2024),Cessna 210 Turbo,Nekoha Shizuku,,,2
-FlyCat#13,FS9,Barnett,Nekoha Shizuku,,Autogyro Test,2
+FlyCat#8,FS9,F-86,Nekoha Shizuku,,,2
+FlyCat#9,FS9/FSX/MSFS,T-45C,Nekoha Shizuku,,,2
+FlyCat#10,FS9/FSX/MSFS,Pilatus PC-21,Nekoha Shizuku,,,2
+FlyCat#11,MSFS,Airbus A320neo,Nekoha Shizuku,,First Airliner,2
+FlyCat#12,MSFS,Airbus A330-900,Nekoha Shizuku,,,2
+FlyCat#13,FS9/FSX/Prepar3d/MSFS(2020/2024),Cessna 210 Turbo,Nekoha Shizuku,,,2
+FlyCat#14,FS9,Barnett,Nekoha Shizuku,,Autogyro Test,2
 FlyCat#14,MSFS,Experimental Mini-500,Nekoha Shizuku,,Refresh #1,3
 FlyCat#15,MSFS,Experimental Mini-500,Nacho Neko,,,3
 FlyCat#16,FS9/FSX/MSFS,Robinson R22,Nacho Neko,NYA-5723,First blender build,4
