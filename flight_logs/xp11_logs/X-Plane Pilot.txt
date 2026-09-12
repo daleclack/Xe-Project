@@ -79,4 +79,11 @@ I
 2 260730    KORD    KCGX   1   0.2   0.0   0.0   0.0   PC21X  PC21
 2 260803    KCGX    KORD   1   0.1   0.0   0.0   0.0   PC21X  PC21
 2 260806    KORD    KCGX   1   0.1   0.0   0.0   0.0  HB-FOI  pc12
+2 260807    KCGX    KORD   1   0.1   0.0   0.0   0.0   PC21X  PC21
+2 260807    KORD    KORD   0   0.1   0.0   0.0   0.0   PC21X  PC21
+2 260807    TNCM    TFFG   1   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza
+2 260808    TFFG    TFFG   0   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza
+2 260910    PHNL    PHNG   1   0.1   0.0   0.0   0.0  24-839  sabre 6
+2 260912    PHNG    PHMK   1   0.2   0.0   0.0   0.0  24-839  sabre 6
+2 260912    KORD    KORD   1   0.1   0.0   0.0   0.0  24-839  sabre 6
 99
