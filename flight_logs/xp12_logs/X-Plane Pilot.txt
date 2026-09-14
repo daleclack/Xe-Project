@@ -163,4 +163,7 @@ I
 2 260912    KPDX    KTTD   1   0.1   0.0   0.0   0.1  24-839  sabre 6_xp12
 2 260912    KTTD    KPDX   1   0.1   0.0   0.0   0.1  24-839  sabre 6_xp12
 2 260912    KPDX    KHIO   1   0.2   0.0   0.0   0.2  24-839  sabre 6_xp12
+2 260913    KORD    KORD   1   0.1   0.0   0.0   0.1  24-839  sabre 6_xp12
+2 260913    KORD    KCGX   1   0.1   0.0   0.0   0.1  24-839  sabre 6_xp12
+2 260914    YSBK    YSRI   1   0.2   0.0   0.0   0.2  24-839  sabre 6_xp12
 99
