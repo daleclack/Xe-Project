@@ -4,6 +4,6 @@ Due to the derivative work limits（AI-genearted contents，EULA of official res
 
 From "Kanon" to "Summer Pockets", thank you, "Key" and Maeda Jun! I will go to the more free world and create more liveries.
 
-Xe Project/FlyCat, 2026
+Xe Project/FlyCat, October 8, 2026
 
 ![FlyCat Logo](./flycat.svg)
