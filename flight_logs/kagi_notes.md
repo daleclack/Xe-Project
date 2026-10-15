@@ -6,4 +6,5 @@ From "Kanon" to "Summer Pockets", thank you, "Key" and Maeda Jun! I will go to t
 
 Xe Project/FlyCat, October 8, 2026
 
-<img title="" src="./xe_logo.svg" alt="Xe Project Logo" width="320"><img title="" src="./flycat.svg" alt="FlyCat Logo" width="320">
+![Xe Project Logo](./xe_logo.svg)
+![FlyCat Logo](./flycat.svg)
