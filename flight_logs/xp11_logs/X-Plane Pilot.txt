@@ -87,4 +87,7 @@ I
 2 260912    PHNG    PHMK   1   0.2   0.0   0.0   0.0  24-839  sabre 6
 2 260912    KORD    KORD   1   0.1   0.0   0.0   0.0  24-839  sabre 6
 2 260912    KORD    KCGX   1   0.1   0.0   0.0   0.0  24-839  sabre 6
+2 261019    KCGX    KORD   1   0.2   0.0   0.0   0.0  N790DL  Car_Bonanza
+2 261019    KORD    KPWK   1   0.1   0.0   0.0   0.0  N790DL  Car_Bonanza
+2 261019    KPWK    KPWK   0   0.2   0.0   0.0   0.0  N790DL  Car_Bonanza
 99
