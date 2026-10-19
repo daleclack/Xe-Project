@@ -168,4 +168,6 @@ I
 2 260914    YSBK    YSRI   1   0.2   0.0   0.0   0.2  24-839  sabre 6_xp12
 2 260915    YSRI    YSBK   1   0.2   0.0   0.0   0.2  ufop39  p39_xp12
 2 261016    YSBK    YSRI   1   0.2   0.0   0.0   0.2  24-839  sabre 6_xp12
+2 261018    YSRI    YSSY   1   0.4   0.0   0.0   0.3  N790DL  Car_Bonanza_xp12
+2 261018    TNCM    TFFG   1   0.1   0.0   0.0   0.1  N790DL  Car_Bonanza_xp12
 99
