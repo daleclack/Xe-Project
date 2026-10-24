@@ -5,6 +5,7 @@ Due to the pressure for graduate, the livery creation will be slowed down. What'
 From "Kanon" to "Summer Pockets", thank you, "Key" and Maeda Jun! I will go to the more free world and create more liveries.
 
 Xe Project/FlyCat, October 8, 2026
+(Revision 1: October 25, 2026)
 
 ![Xe Project Logo](./xe_logo.svg)
 ![FlyCat Logo](./flycat.svg)
