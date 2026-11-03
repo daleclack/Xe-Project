@@ -9,5 +9,7 @@ The liveries related to Nacho Neko and other drawing from Nacho Neko (e.g. Nekoh
 
 The liveries theme is the personate of AI (deepseek, Gemini, Chatgpt, and more)
 
+Xe Project/FlyCat, November 3, 2026
+
 ![Xe Project Logo](./flight_logs/xe_logo.svg)
 ![FlyCat Logo](./flight_logs/flycat.svg)
